@@ -61,3 +61,8 @@ ElastoPvP is an unofficial fan game. It isn't affiliated with or endorsed by the
 Elasto Mania (Balázs Rózsa). All maps, art, sound and music were made for this game; the
 sound and music are synthesized in code. This repository only hosts the releases; the source
 code is private.
+
+## License
+
+The game builds, README and screenshots in this repository are released under the
+[MIT License](LICENSE). You may play, share and redistribute them; the source code is not included.
